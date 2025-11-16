@@ -3,7 +3,6 @@ Exercícios de Encapsulamento em Java
 Este repositório contém exercícios práticos de Programação Orientada a Objetos (POO) em Java, com foco no pilar de Encapsulamento.
 O objetivo é aprender como proteger os dados das classes e controlar o acesso através de getters e setters, garantindo integridade e segurança das informações.
 
-🧩 Conteúdo dos exercícios
 
 Criação de atributos privados em classes
 
